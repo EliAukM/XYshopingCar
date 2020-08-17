@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#007aff</color>
+    <color name="colorPrimaryDark">#007aff</color>
+    <color name="colorAccent">#007aff</color>
+
+    <color name="text_select">#cccccc</color>
+    <color name="white">#FFFFFF</color>
+    <color name="text_zero">#666666</color>
+    <color name="text_nine">#999999</color>
+    <color name="text_fen_bg">#f6f6f6</color>
+    <color name="text_one">#333333</color>
+    <color name="shop_red">#ff3f3f</color>
+    <color name="goods_red">#fb3b3b</color>
+    <color name="main">#2aa266</color>
+    <color name="color_blue_4562e9">#4562e9</color>
+    <color name="btn_blue_normal">#1e90ff</color>
+    <color name="gray_text">#919191</color>
+    <color name="gray_btn">#EBEBEB</color>
+    <color name="gray_bg">#f0eff5</color>
+    <color name="black">#000000</color>
+    <color name="black_text">#212121</color>
+    <color name="transparent">#00000000</color>
+    <color name="gray_line">#ebebeb</color>
+    <color name="line">#eeeeee</color>
+</resources>
